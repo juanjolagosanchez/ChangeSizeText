@@ -1,3 +1,5 @@
+.DS_Store
+.externalNativeBuild
 ### Android ###
 # Built application files
 *.apk
